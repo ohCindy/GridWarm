@@ -8,7 +8,7 @@ Results showed its efficacy in have faster convergence compared with traditional
 ![plot](./Figure/result.png)
 
 
-See this paper for more details:
+See [this paper](https://arxiv.org/abs/2205.03673) for more details:
 ```
 @article{li2022gridwarm,
   title={Towards Practical Physics-Informed ML Design and Evaluation for Power Grid},
