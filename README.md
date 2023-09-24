@@ -8,8 +8,14 @@ Results showed its efficacy in have faster convergence compared with traditional
 ![plot](./Figure/result.png)
 
 
-See [this paper](https://arxiv.org/abs/2205.03673) for more details:
+See [this paper](https://arxiv.org/abs/2304.06727) or [this paper](https://arxiv.org/abs/2205.03673) for more details:
 ```
+@article{li2023contingency,
+  title={Contingency Analyses with Warm Starter using Probabilistic Graphical Model},
+  author={Li, Shimiao and Pandey, Amritanshu and Pileggi, Larry},
+  journal={arXiv preprint arXiv:2304.06727},
+  year={2023}
+}
 @article{li2022gridwarm,
   title={Towards Practical Physics-Informed ML Design and Evaluation for Power Grid},
   author={Li, Shimiao and Pandey, Amritanshu and Pileggi, Larry},
